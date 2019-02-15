@@ -41,8 +41,8 @@
  aside, section {
   float: left;
   width: 470px;
-  height: 300px;
-  margin-bottom: 10px;
+  height: 250px;
+  margin-bottom: 20px;
   background: white;
 }
 
@@ -55,10 +55,12 @@ article {
   padding-bottom: 10px; 
 }
 
-h4, #containergrey {
+h4, p {
   background: white;
   margin: 15px;
   color:#777;
+  padding: 10px 0px;
+  
 }
 
 
